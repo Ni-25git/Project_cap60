@@ -18,7 +18,7 @@
 
 # Some mid components
 
-# ![Screenshot 2024-06-08 150630](https://github.com/Ni-25git/Project_cap60/assets/139973898/fec59577-6dc2-4560-b67f-80cd9ae6a7a5)
+# ![Screenshot 2024-06-08 150533](https://github.com/Ni-25git/Project_cap60/assets/139973898/759bcd7a-e1d9-4f5c-a9cb-4159d1712079)
 
 # ![Screenshot 2024-06-08 150913](https://github.com/Ni-25git/Project_cap60/assets/139973898/ee0c3877-c0c9-4014-b8fb-3e080d9a7805)
 
@@ -28,7 +28,7 @@
 
 # ![Screenshot 2024-06-08 150644](https://github.com/Ni-25git/Project_cap60/assets/139973898/0e86a73f-2190-4029-94f5-642ca3368797)
 
-# ![Screenshot 2024-06-08 150533](https://github.com/Ni-25git/Project_cap60/assets/139973898/759bcd7a-e1d9-4f5c-a9cb-4159d1712079)
+# ![Screenshot 2024-06-08 150630](https://github.com/Ni-25git/Project_cap60/assets/139973898/fec59577-6dc2-4560-b67f-80cd9ae6a7a5)
 
 # ![Screenshot 2024-06-08 150546](https://github.com/Ni-25git/Project_cap60/assets/139973898/1c3bef2b-fac8-4119-8c6e-4798cc8e2554)
 
